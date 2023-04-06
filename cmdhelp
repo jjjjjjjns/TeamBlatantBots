@@ -1,1 +1,16 @@
-test:This is Example Help LOL
+print: Prints a message to the output console print: Hi
+loadstring: Executes a script from a URL loadstring: game:HttpGet("URL", true))()
+rejoin: Makes the bot rejoin the game rejoin:
+nobird: Removes wings from the player nobird: playername
+updateplayers: Updates the player list updateplayers:
+lineup: Teleports the bot's character to a specified player lineup: playername
+follow: Follows a specific player follow: playername
+dance: Makes all bots dance dance:
+wave: Makes all bots wave wave:
+dance2: Makes all bots do dance2 dance2
+dance3: Makes all bots do dance3 dance3
+uwu: Makes all bots go into "uwu" mode uwu
+breakdance: Makes all bots breakdance breakdance
+
+
+
